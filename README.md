@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **iOS && WebDev.**
 
-- 🌱 I’m currently learning **HTML.**
+- 🌱 I’m currently learning **swiftUI.**
 
 - 👯 I’m looking to collaborate on **iOS Projects.**
 
